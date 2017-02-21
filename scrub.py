@@ -2,7 +2,7 @@
 # This is a simple script that will run through a directory
 # and scrub files from your filesystem.
 #
-# Maintainer    : Mortolio <master@mortolio.com>
+# Maintainer    : Mortolio <hello@mortolio.com>
 # Version       : 1.0
 #
 # TODO:

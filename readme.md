@@ -1,11 +1,8 @@
 # File Scrubber
-
 This is a simple tool that will scrub a path from the files matching the criteria
-you have specified. This is helpful to remove system files like .DS_Store and Thumbs.db from NAS
-servers and folder structures which are authorative in nature.
+you have specified. This is helpful to remove system files like .DS_Store and Thumbs.db from NAS servers and folder structures which are authorative in nature.
 
 # How to use it
-
 Below is the document on how to use the tool. You can also get the help by typing
 --help.
 
@@ -21,14 +18,12 @@ ARGUMENTS:
 ```
 
 # Possible Improvements
-
 * Unit Tests
 * Consider makeing the code a bit more eligant
 * Consider adding a statistics report at the END
 * Complete the .git igore feature
 
 # Contribute
-
 You are welcome to fork and contribute to this project.
 
 # Technology
@@ -37,7 +32,6 @@ You are welcome to fork and contribute to this project.
 * GIT
 
 # Some files which are popular to scrub
-
 ```
 *.DS_Store
 .AppleDouble
